@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d google-homepage"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/sumeetmohite/google-homepage/issues"
   },
-  "homepage": "https://github.com/sumeetmohite/google-homepage#readme",
+  "homepage": "https://github.com/sumeetmohite/google-homepage",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
